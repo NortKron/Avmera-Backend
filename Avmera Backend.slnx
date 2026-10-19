@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Avmera.AdminPanel/Avmera.AdminPanel.csproj" Id="929328ad-02da-4a69-af18-dc41455e01fe" />
+  <Project Path="Avmera.API/Avmera.API.csproj" Id="b3860bef-30d1-48b8-9848-b725ba6d1acc" />
+  <Project Path="Avmera.Application/Avmera.Application.csproj" Id="0e8d052a-3327-4e16-a12c-d0e006099c3b" />
+  <Project Path="Avmera.Domain/Avmera.Domain.csproj" Id="68241939-3527-47fb-8f0e-9cae8f81419d" />
+  <Project Path="Avmera.Infrastructure/Avmera.Infrastructure.csproj" Id="a89bd4e2-4da6-4afc-b5d9-04d1884796a0" />
+</Solution>
